@@ -14,7 +14,7 @@ a great replayability through the different generated levels.
 
 ## How it works
 
-Paula uses a text replacement algorithm to create a string representation of a level based on a used provided replacement grammar.
+Paula uses a text replacement algorithm to create a string representation of a level based on a user provided replacement grammar.
 This grammar give the ability to structure levels and still use randomization in a controlled way.
 As a user you provide a grammar on how your level should be structured and some basic building blocks which can later be used to instantiate the level.
 The generator flow looks something like this:
