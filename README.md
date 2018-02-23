@@ -19,7 +19,7 @@ The generator flow looks something like this:
 Grammar -> Text Replacement -> Level Instatiation baseed on the result string -> Level Population with asset based on a second grammar
 
 ## Generator Settings Example for the Game Craft
-![Generator Settings](https://drive.google.com/open?id=16L3oXX8TtSZmcJlkwA3MyC7V1JSsTfGW)
-![Generator grammar and axiom](https://drive.google.com/open?id=1h5kQhyo9cYZGkwP_Wv6WxQvrsL69mU7X)
-![Text replacer result and instatiation](https://drive.google.com/open?id=1ViQDtgtPfZ-w7xysbEOCET1_u-8ypRWx)
-![Level pupulator](https://drive.google.com/open?id=1nh22053dtxg78-3nHmLogAOr5Z5PMYER)
+![Generator Settings](https://lh3.google.com/u/1/d/16L3oXX8TtSZmcJlkwA3MyC7V1JSsTfGW=w1920-h1094-iv1)
+![Generator grammar and axiom](https://lh3.google.com/u/1/d/16L3oXX8TtSZmcJlkwA3MyC7V1JSsTfGW=w1920-h1094-iv1)
+![Text replacer result and instatiation](https://lh3.google.com/u/1/d/16L3oXX8TtSZmcJlkwA3MyC7V1JSsTfGW=w1920-h1094-iv1)
+![Level pupulator](https://lh3.google.com/u/1/d/16L3oXX8TtSZmcJlkwA3MyC7V1JSsTfGW=w1920-h1094-iv1)
