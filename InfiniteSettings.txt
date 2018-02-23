@@ -1,0 +1,15 @@
+Variables
+{"key":"GeneratePositiveDirection","value":"True"}
+{"key":"GenerateNegativeDirection","value":"False"}
+{"key":"GetBackToStart","value":"True"}
+{"key":"ActiveSections","value":"3"}
+{"key":"Infinite","value":"True"}
+{"key":"IsVertical","value":"False"}
+{"key":"MinimumClearance","value":"12"}
+{"key":"Player","value":"{\"GameObject\":{\"serializedVersion\":\"4\",\"m_Layer\":8,\"m_Name\":\"Player\",\"m_TagString\":\"Untagged\",\"m_Icon\":{\"instanceID\":0},\"m_NavMeshLayer\":0,\"m_StaticEditorFlags\":0,\"m_IsActive\":true}}"}
+{"key":"StartSeed","value":"1511"}
+{"key":"StartValue","value":"0"}
+SectionStringList
+{"Key":0,"Value":"<start><section>"}
+AssetCountList
+{"Key":0,"Value":[{"Curve":{"serializedVersion":"2","m_Curve":[{"time":0.003911444451659918,"value":0.5049679279327393,"inSlope":0.0,"outSlope":0.0,"tangentMode":0},{"time":0.3184657096862793,"value":0.16373811662197114,"inSlope":0.0036276562605053188,"outSlope":0.0036276562605053188,"tangentMode":0},{"time":0.7284979224205017,"value":0.8121927976608276,"inSlope":-0.009363156743347645,"outSlope":-0.009363156743347645,"tangentMode":0},{"time":1.0,"value":0.5000176429748535,"inSlope":0.0,"outSlope":0.0,"tangentMode":0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4},"Key":"<assets/obstacles>","TargetObjectCount":10,"Value":"<assets/obstacles/box stackable=\"yes\">|<assets/obstacles/tree>"},{"Curve":{"serializedVersion":"2","m_Curve":[{"time":0.003911444451659918,"value":0.5049679279327393,"inSlope":0.0,"outSlope":0.0,"tangentMode":0},{"time":0.3184657096862793,"value":0.16373811662197114,"inSlope":0.0036276562605053188,"outSlope":0.0036276562605053188,"tangentMode":0},{"time":0.7284979224205017,"value":0.8121927976608276,"inSlope":-0.009363156743347645,"outSlope":-0.009363156743347645,"tangentMode":0},{"time":1.0,"value":0.5000176429748535,"inSlope":0.0,"outSlope":0.0,"tangentMode":0}],"m_PreInfinity":2,"m_PostInfinity":2,"m_RotationOrder":4},"Key":"<assets/enemies>","TargetObjectCount":10,"Value":"<assets/enemies/enemy1>"}]}

@@ -1,0 +1,21 @@
+{
+    "BaseFolderInput": "in_folder",
+    "BaseFolderOutput": "out_folder",
+    "BluePrints": [
+        {
+            "Name": "tmpName",
+            "OutputFolder": "outfolder",
+            "PatternParts": [
+                {
+                    "Name": "tmpName",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    ]
+}

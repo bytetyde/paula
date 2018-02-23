@@ -1,0 +1,33 @@
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"CodonNumbers","ValueString":"-1,-1,-1"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"StartString","ValueString":"<level>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"GroundCells","ValueString":"True"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"MaxWays","ValueString":"3"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<level>","ValueString":"<section><section><section><section>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<section>","ValueString":"<section-hard> | <section-medium> | <section-easy>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<section-hard>","ValueString":"<cell-hard><cell-hard><cell-hard>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<section-medium>","ValueString":"<cell-medium><cell-medium><cell-medium>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<section-easy>","ValueString":"<cell-easy><cell-easy><cell-easy>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<cell-hard>","ValueString":"<3-way-cell-hard>|<2-way-cell-hard>|<1-way-cell-hard>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<cell-medium>","ValueString":"<3-way-cell-medium>|<2-way-cell-medium>|<1-way-cell-medium>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<cell-easy>","ValueString":"<3-way-cell-easy>|<2-way-cell-easy>|<1-way-cell-easy>"}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<3-way-cell-hard>","ValueString":"<ground> <pattern-hard> <pattern-hard>"}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<3-way-cell-medium>","ValueString":"<ground> <pattern-medium> <pattern-medium>"}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<3-way-cell-easy>","ValueString":"<ground> <pattern-easy> <pattern-easy>"}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<2-way-cell-hard>","ValueString":"<ground> <pattern-hard> "}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<2-way-cell-medium>","ValueString":"<ground> <pattern-medium> "}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<2-way-cell-easy>","ValueString":"<ground> <pattern-easy> "}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<1-way-cell-hard>","ValueString":"<ground> "}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<1-way-cell-medium>","ValueString":"<ground>"}
+{"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<1-way-cell-easy>","ValueString":"<ground>"}
+{"IsCell":false,"IsFinalString":true,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<pattern-hard>","ValueString":"<hard/complex> | <hard/rhytmic> | <medium/complex> | <medium/rhytmic>"}
+{"IsCell":false,"IsFinalString":true,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<pattern-medium>","ValueString":"<medium/complex> | <medium/rhytmic> | <medium/basic> | <hard/complex> | <hard/rhytmic> | <easy/complex> | <easy/rhytmic> | <easy/basic> "}
+{"IsCell":false,"IsFinalString":true,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<pattern-easy>","ValueString":"<easy/basic> | <easy/rhytmic> | <medium/basic> | <medium/rhytmic>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":true,"IsMapped":false,"KeyString":"<ground>","ValueString":"<easy/basic/basic-pattern1>"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<hard/complex>","ValueString":"<hard/complex/complex-pattern1>|<hard/complex/complex-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<hard/rhytmic>","ValueString":"<hard/rhytmic/rhytmic-pattern1>|<hard/rhytmic/rhytmic-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<medium/complex>","ValueString":"<medium/complex/complex-pattern1>|<medium/complex/complex-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<medium/rhytmic>","ValueString":"<medium/rhytmic/rhytmic-pattern1>|<medium/rhytmic/rhytmic-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<medium/basic>","ValueString":"<medium/basic/basic-pattern1>|<medium/basic/basic-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<easy/complex>","ValueString":"<easy/complex/complex-pattern1>|<easy/complex/complex-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<easy/rhytmic>","ValueString":"<easy/rhytmic/rhytmic-pattern1>|<easy/rhytmic/rhytmic-pattern2>|"}
+{"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":true,"KeyString":"<easy/basic>","ValueString":"<easy/basic/basic-pattern1>|<easy/basic/basic-pattern2>|"}

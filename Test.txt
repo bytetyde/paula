@@ -1,0 +1,10 @@
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"CodonNumbers","ValueString":"-1 -1 -1 -1 -1 -1 -1 -1"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"StartString","ValueString":"<level>"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"GroundCells","ValueString":"True"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"MaxWays","ValueString":"3"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<level>","ValueString":"<start><section><end>"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<section>","ValueString":"<three-pattern-cell>"}
+{"Difficulty":0,"IsCell":true,"IsFinalString":false,"IsManuallyMapped":true,"IsMapped":false,"KeyString":"<start>","ValueString":"<ground/one>"}
+{"Difficulty":0,"IsCell":true,"IsFinalString":false,"IsManuallyMapped":true,"IsMapped":false,"KeyString":"<end>","ValueString":"<ground/one>"}
+{"Difficulty":0,"IsCell":true,"IsFinalString":false,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<three-pattern-cell>","ValueString":"{3*<ground-pattern>}"}
+{"Difficulty":0,"IsCell":false,"IsFinalString":true,"IsManuallyMapped":false,"IsMapped":false,"KeyString":"<ground-pattern>","ValueString":"<pattern/>"}

@@ -1,0 +1,2319 @@
+{
+    "BaseFolderInput": "Base Assets",
+    "BaseFolderOutput": "Levelgenerator Prefabs/patterns/",
+    "BluePrints": [
+         {
+            "Name": "left_restriction_ground",
+            "OutputFolder": "tall/special/",
+            "PatternParts": [
+                {
+                    "Name": "tall_11",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 11.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_11",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "right_restriction_ground",
+            "OutputFolder": "tall/special/",
+            "PatternParts": [
+                {
+                    "Name": "tall_11",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 2.0,
+                        "y": 11.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_11",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 2.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "LevelFinish",
+                    "Type": "others",
+                    "Position": {
+                        "x": 1.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "ground_0",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_11",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_1",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_2",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_3",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_7",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_4",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_7",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "basic_pattern_5",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_6",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_7",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_7",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_8",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_9",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_6",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_10",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_6",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "basic_pattern_11",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_12",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_6",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_13",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_14",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_15",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_16",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "basic_pattern_17",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "basic_pattern_18",
+            "OutputFolder": "tall/basic/",
+            "PatternParts": [
+                {
+                    "Name": "tall_6",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_7",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_1",
+            "OutputFolder": "tall/complex/",
+            "PatternParts": [
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_2",
+            "OutputFolder": "tall/complex/",
+            "PatternParts": [
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_3",
+            "OutputFolder": "tall/complex/",
+            "PatternParts": [
+                {
+                    "Name": "tall_5",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": -2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "ground_1",
+            "OutputFolder": "short/basic/",
+            "PatternParts": [
+                {
+                    "Name": "short_11",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_4",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_5",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 0.5,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_6",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_6",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_7",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 7.5,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_8",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 2.5,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 7.5,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": -2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "complex_pattern_9",
+            "OutputFolder": "short/complex/",
+            "PatternParts": [
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 0.5,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "composition_pattern_1",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "composition_pattern_2",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_5_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_3",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_6_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_4",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_6",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "small_lamp",
+                    "Type": "decoration",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_7_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_5",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_6",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_5",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": -2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "composition_pattern_7",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.5,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+         {
+            "Name": "composition_pattern_8",
+            "OutputFolder": "short/composition/",
+            "PatternParts": [
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 2.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 10.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_1",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 20.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 23.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_2",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 10.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 15.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 18.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_3",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_3",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 2.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_V",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_V",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 13.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_3",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 19.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+       {
+            "Name": "compound_pattern_4",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 15.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 18.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_5",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_6",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_V",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_7",
+            "OutputFolder": "tall/compound/",
+            "PatternParts": [
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 6.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_V",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 20.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 23.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_8",
+            "OutputFolder": "short/compound/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_4",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 10.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 15.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 18.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_9",
+            "OutputFolder": "short/compound/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_3",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 2.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 13.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_3",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 19.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+       {
+            "Name": "compound_pattern_10",
+            "OutputFolder": "short/compound/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_1",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 15.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 18.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_11",
+            "OutputFolder": "short/compound/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "compound_pattern_12",
+            "OutputFolder": "short/compound/",
+            "PatternParts": [
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_H",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2_V",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 14.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 17.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "short_2",
+                    "Type": "shortplatform",
+                    "Position": {
+                        "x": 22.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_10",
+            "OutputFolder": "tall/composition/",
+            "PatternParts": [
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 4.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 8.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 12.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_11",
+            "OutputFolder": "tall/composition/",
+            "PatternParts": [
+                {
+                    "Name": "tall_1",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 3.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 7.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 11.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "Name": "composition_pattern_12",
+            "OutputFolder": "tall/composition/",
+            "PatternParts": [
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_2_H",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 5.0,
+                        "y": -1.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "Name": "tall_4",
+                    "Type": "tallplatform",
+                    "Position": {
+                        "x": 9.0,
+                        "y": -2.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    ]
+}
